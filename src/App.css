@@ -31,7 +31,7 @@ body {
   margin-bottom: .25rem;
 }
 
-.btn {
+.butn {
   background-color: hsl(200, 100%, 50%);
   color: white;
   padding: .5em 1em;
@@ -40,7 +40,7 @@ body {
   cursor: pointer;
 }
 
-.btn:hover {
+.butn:hover {
   background-color: hsl(200, 100%, 40%);
 }
 
